@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 <br/>
 
 #### :heart: Casual Games, Game Economics, Data Driven Digital Marketing
-#### :microscope: Reinforcement Learning, Game Theory, Bid Optimization, Optimum-Path Forest Classifier
+#### :microscope: Reinforcement Learning, Game Theory, Bid Optimization, Optimum-Path Forest
 #### :computer: Python, R, C#, C/C++, React, Ant.Design, SQL
